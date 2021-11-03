@@ -9,3 +9,8 @@ def even_only (any_lst):
     return new_lst
     
 print(even_only (lst))
+
+def reverse_even_only(lst):
+    lst = lst[::-1]
+    return lst
+print(reverse_even_only (lst))
