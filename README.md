@@ -1,1 +1,1 @@
-# WiCS
+# Python
